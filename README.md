@@ -23,7 +23,7 @@ Skin Cancer Detection project is a sophisticated web application developed to de
 
 2. Clone the repository to your local machine:
 ```sh
-git clone https://github.com/karantolani/skin-cancer-detection.git
+git clone https://github.com/Varuntolani2108/skin-cancer-detection.git
 ```
 3. The steps to run server is mentioned in the respective folder.
 
